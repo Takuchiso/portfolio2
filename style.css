@@ -80,7 +80,7 @@ nav.NavMenu{
 
   .nav-left {
     width: 50%;
-    background-image: url("/img/wordpress-5.3-ja.jpg");
+    background-image: url("wordpress-5.3-ja.jpg");
     background-size: cover;
     background-position: center;
   }
@@ -292,7 +292,7 @@ nav.NavMenu.active{
 
 .concept-left {
   width: 50%;
-  background-image: url(/img/view1.jpg);
+  background-image: url(view1.jpg);
   background-position: center;
   background-size: cover;
   z-index: 1;
@@ -400,7 +400,7 @@ nav.NavMenu.active{
 }
 
 .visual1-1 {
-  background-image: url(/img/view6.jpg);
+  background-image: url(view6.jpg);
   background-size: cover;
   background-position: center;
   width: 435px;
@@ -408,14 +408,14 @@ nav.NavMenu.active{
   margin-right: 5%;
 }
 .visual1-2 {
-  background-image: url(/img/food5.jpg);
+  background-image: url(food5.jpg);
   background-size: cover;
   background-position: center;
   width: 930px;
   height: 560px;
 }
 .visual2-1 {
-  background-image: url(/img/people9.jpg);
+  background-image: url(people9.jpg);
   background-size: cover;
   background-position: center;
   width: 930px;
@@ -423,14 +423,14 @@ nav.NavMenu.active{
   margin-right: 5%;
 }
 .visual2-2 {
-  background-image: url(/img/people5.jpg);
+  background-image: url(people5.jpg);
   background-size: cover;
   background-position: center;
   width: 435px;
   height: 560px;
 }
 .visual3-1 {
-  background-image: url(/img/food6.jpg);
+  background-image: url(food6.jpg);
   background-size: cover;
   background-position: center;
   width: 435px;
@@ -438,7 +438,7 @@ nav.NavMenu.active{
   margin-right: 5%;
 }
 .visual3-2 {
-  background-image: url(/img/food9.jpg);
+  background-image: url(food9.jpg);
   background-size: cover;
   background-position: center;
   width: 930px;
@@ -454,7 +454,7 @@ nav.NavMenu.active{
 }
 
 .menu-left {
-  background-image: url(/img/food12-1.jpeg);
+  background-image: url(food12-1.jpeg);
 }
 
 .menu-left-p1 {
@@ -498,7 +498,7 @@ nav.NavMenu.active{
 }
 
 .access-img {
-  background-image: url(/img/view13.jpg);
+  background-image: url(view13.jpg);
   background-size: cover;
   background-position: center;
   width: 715px;
@@ -600,7 +600,7 @@ footer > img {
 .top-menu {
   height: 100vh;
   width: 100%;
-  background-image: url(/img/view1.jpg);
+  background-image: url(view1.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -638,7 +638,7 @@ footer > img {
 
 .concept-2-left {
   width: 50%;
-  background-image: url(/img/concept-2-.jpg);
+  background-image: url(concept-2-.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -753,23 +753,23 @@ footer > img {
 }
 
 .sc-img1 {
-  background-image: url(/img/speciality1.jpg);
+  background-image: url(speciality1.jpg);
   background-size: cover;
   background-position: center;
 }
 .sc-img2 {
-  background-image: url(/img/speciality2.jpg);
+  background-image: url(speciality2.jpg);
   background-size: cover;
   background-position: center;
 }
 .sc-img3 {
-  background-image: url(/img/speciality3.jpg);
+  background-image: url(speciality3.jpg);
   background-size: cover;
   background-position: center;
   margin-right: 100px;
 }
 .sc-img4 {
-  background-image: url(/img/speciality4.jpg);
+  background-image: url(speciality4.jpg);
   background-size: cover;
   background-position: center;
   width: 1000px;
@@ -807,17 +807,17 @@ footer > img {
 }
 
 .chef-img1 {
-  background-image: url(/img/chef1.jpg);
+  background-image: url(chef1.jpg);
   background-size: cover;
   background-position: center;
 }
 .chef-img2 {
-  background-image: url(/img/chef2.jpg);
+  background-image: url(chef2.jpg);
   background-size: cover;
   background-position: center;
 }
 .chef-img3 {
-  background-image: url(/img/chef3.jpg);
+  background-image: url(chef3.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -888,7 +888,7 @@ footer > img {
 }
 
 .visual-1-leftimg {
-  background-image: url(/img/visual-1-leftimg.jpg);
+  background-image: url(visual-1-leftimg.jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -896,7 +896,7 @@ footer > img {
 }
 
 .visual-1-rightimg {
-  background-image: url(/img/visual-1-rightimg.jpg);
+  background-image: url(visual-1-rightimg.jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -921,7 +921,7 @@ footer > img {
 }
 
 .visual-2-leftimg {
-  background-image: url(/img/visual-2-leftimg.jpeg);
+  background-image: url(visual-2-leftimg.jpeg);
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -930,7 +930,7 @@ footer > img {
 }
 
 .visual-2-rightimg {
-  background-image: url(/img/visual-2-rightimg.jpeg);
+  background-image: url(visual-2-rightimg.jpeg);
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -950,7 +950,7 @@ footer > img {
 }
 
 .visual-3-left {
-  background-image: url(/img/visual-3.jpeg);
+  background-image: url(visual-3.jpeg);
   background-size: cover;
   background-position: center;
   height: 804px;
@@ -959,7 +959,7 @@ footer > img {
 /*-- menu --*/
 .menu-1 {
   height: 550px;
-  background-image: url(/img/menu-top1.jpeg);
+  background-image: url(menu-top1.jpeg);
   background-size: cover;
   background-position: center;
 }
@@ -1134,7 +1134,7 @@ input[name="tab_item"] {
 
 /*--access--*/
 .access-1 {
-  background-image: url(/img/access-1.jpeg);
+  background-image: url(access-1.jpeg);
   background-size: cover;
   background-position: center;
 }
@@ -1554,7 +1554,7 @@ iframe {
   }
 
   .access-left {
-    background-image: url(/img/view13.jpg);
+    background-image: url(view13.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
